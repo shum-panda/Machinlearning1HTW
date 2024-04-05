@@ -6,9 +6,10 @@
 # all adjacent == elements have been reduced to a single element,
 # so [1, 2, 2, 3] returns [1, 2, 3]. You may create a new list or
 # modify the passed in list.
-def remove_adjacent(nums):
-  # +++your code here+++
-  return
+def remove_adjacent(nums) -> list:
+    shorted_list=[]
+    
+    return shorted_list
 
 
 # E. Given two lists sorted in increasing order, create and return a merged
